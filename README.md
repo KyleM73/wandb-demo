@@ -1,6 +1,11 @@
 # wandb-demo
 minimal example to set up wandb
 
+## Requirements
+- conda
+- wandb account
+- cuda-capable gpu [optional]
+
 ## Setup
 ```bash
 conda create -n wandb python=3.11
