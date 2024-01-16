@@ -11,7 +11,7 @@ minimal example to set up wandb
 conda create -n wandb python=3.11
 conda activate wandb
 pip install wandb
-pip install torch
+pip install torch torchvision
 ```
 
 if you intend to train on GPU, check that torch can find it:
