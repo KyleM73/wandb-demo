@@ -32,3 +32,6 @@ python simple.py
 ```
 
 ## (Hyper-)Parameter Sweeps
+```bash
+python sweep.py
+```
